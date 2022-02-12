@@ -2,7 +2,7 @@
 - 👀 I’m interested in "Machine Learning", "image processing", "audio and video processing", "Deep Learning"
 - 🌱 I’m currently learning Energy production in artificial intelligence and machine learning
 - 💞️ I’m looking to collaborate on "Big Data and Machine Learning"
-- 📫 How to reach me suleymanbariskoksal@gmail.com
+- 📫 To reach me suleymanbariskoksal@gmail.com & admin@bariskoksal.com
 - I carried out a project on autonomous vehicle systems in my university graduation project.
 
 <!---
